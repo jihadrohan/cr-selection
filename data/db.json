@@ -1,0 +1,43 @@
+{
+  "election": {
+    "title": "Class Representative Election",
+    "className": "CSE 17",
+    "status": "draft",
+    "createdAt": null
+  },
+  "candidates": [
+    {
+      "id": "b1bf864b-2503-486c-9db7-05012d50ad36",
+      "name": "YEAMIN",
+      "studentId": "B250305050",
+      "manifesto": "",
+      "createdAt": "2026-11-21T16:42:06.969Z"
+    },
+    {
+      "id": "4da7f948-aa8c-45be-b752-0d69ca2908f1",
+      "name": "MIRAJ",
+      "studentId": "B250305009",
+      "manifesto": "",
+      "createdAt": "2026-11-21T16:42:31.216Z"
+    }
+  ],
+  "voters": [
+    {
+      "name": "ROHAN",
+      "studentId": "B250305054"
+    },
+    {
+      "name": "ATAUR",
+      "studentId": "B250305059"
+    },
+    {
+      "name": "MUNJIRUL",
+      "studentId": "B250305029"
+    },
+    {
+      "name": "TITUMIR",
+      "studentId": "B250305024"
+    }
+  ],
+  "votes": []
+}
